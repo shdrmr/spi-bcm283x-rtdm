@@ -20,7 +20,7 @@
 #include <linux/of.h>
 
 #define BCK2835_LIBRARY_BUILD
-#include "bcm2835.h"
+#include "../include/bcm2835.h"
 
 /* Return value of `mmap' in case of an error, as a replacement of the one provided by mman.h  */
 #define MAP_FAILED	((void *) -1)
