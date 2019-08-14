@@ -1,5 +1,9 @@
 # spi-bcm283x-rtdm
 
+Forked from Nicolas Schurando's repo to make the driver compatible with yocto build system.
+
+Original repository : https://github.com/nicolas-schurando/spi-bcm283x-rtdm.git
+
 Real-Time SPI driver for the Broadcom BCM2835 (BCM2708) and BCM2836 (BCM2709) SoCs using the RTDM API.
 
 ## Introduction
